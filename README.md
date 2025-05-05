@@ -16,7 +16,8 @@ Este projeto é uma aplicação web simples para **agendamento de consultas**. O
 - Exibição do resumo do agendamento
 - Layout responsivo para diferentes dispositivos
 
-### Visualização da pagina
+### Visualização da pagina e deploy
 
+https://agendamento-de-consultas-six.vercel.app/
 
 ![agenda a consulta](https://github.com/user-attachments/assets/6d8066bc-7b96-4a37-bf3d-329b0ec372d0)
